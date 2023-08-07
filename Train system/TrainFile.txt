@@ -1,0 +1,6 @@
+Train number: 11
+Number of seats: 87
+Route: chandigarh-delhi
+Timing: 8AM
+Rent: 1200
+_______________
